@@ -10,7 +10,7 @@
 
 <img src="https://media.giphy.com/media/j1sGG7gbue5o2gS31X/giphy.gif" width="30px">&nbsp;正在进行的工作：SDLC、SRC漏洞挖掘；
 
-<img src="https://media.giphy.com/media/gicLJtvYJlEh0LSdCl/giphy.gif" width="30px">&nbsp;正在学习中：代码审计、大模型安全、大模型应用；
+<img src="https://media.giphy.com/media/gicLJtvYJlEh0LSdCl/giphy.gif" width="30px">&nbsp;正在持续学习中：代码审计、大模型安全、大模型应用；
 
 <img src="https://media.giphy.com/media/1AgViXhq0ZzOZyYfHV/giphy.gif" width="30px">&nbsp;正在寻求大模型安全相关更多的交流与实践😭;
 
