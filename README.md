@@ -4,7 +4,7 @@
 🚀 我是一名安全从业者 <br />
 🙍🏽‍♂️ 也是[@UnknowSec](https://github.com/Unkn0wSec)成员，欢迎大家关注公众号获取更多安全分享： **不懂安全**。
 
-  <img align="right" alt="GIF" src="https://github.com/deut-erium/deut-erium/raw/master/assets/hmm.gif" width="500px" />
+  <img align="right" alt="GIF" src="https://github.com/deut-erium/deut-erium/raw/master/assets/hmm.gif" width="400px" />
   
 > **<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="50px">&nbsp;关于我个人**
 
