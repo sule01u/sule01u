@@ -23,11 +23,3 @@
 
 <br>**📉 Visitors Count**  
 ![VisitorCount](https://profile-counter.glitch.me/{sanchitvj}/count.svg)
-
-<a href="https://github.com/sule01u/AutorizePro">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=sule01u&repo=AutorizePro" />
-</a>
-
-<a href="https://github.com/sule01u/SBSCAN">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=sule01u&repo=SBSCAN" />
-</a>
