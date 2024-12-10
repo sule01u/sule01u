@@ -2,7 +2,7 @@
 <br />
 
 🚀 I am a security practitioner <br />
-🙍🏽‍♂️ Also a member of [@UnknowSec](https://github.com/Unkn0wSec). Welcome to follow our official account for more security insights: **不懂安全**.
+🙍🏽‍♂️ Also a member of [@UnknowSec](https://github.com/Unkn0wSec). 欢迎大家关注微信公众号获取更多安全分享： **不懂安全**。
 
   <img align="right" alt="GIF" src="https://github.com/deut-erium/deut-erium/raw/master/assets/hmm.gif" width="400px" />
   
