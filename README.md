@@ -10,11 +10,11 @@
 
 <img src="https://media.giphy.com/media/j1sGG7gbue5o2gS31X/giphy.gif" width="30px">&nbsp;Current Focus: SDLC and SRC vulnerability hunting;
 
-<img src="https://media.giphy.com/media/gicLJtvYJlEh0LSdCl/giphy.gif" width="30px">&nbsp;Ongoing Learning: Code auditing, security for large models, and applications of large models;
+<img src="https://media.giphy.com/media/gicLJtvYJlEh0LSdCl/giphy.gif" width="30px">&nbsp;Ongoing Learning: Code auditing, security for LLMs, and applications of LLMs;
 
-<img src="https://media.giphy.com/media/1AgViXhq0ZzOZyYfHV/giphy.gif" width="30px">&nbsp;Seeking more exchanges and practices related to large model security😭;
+<img src="https://media.giphy.com/media/1AgViXhq0ZzOZyYfHV/giphy.gif" width="30px">&nbsp;Seeking Exchanges: Looking for more opportunities to discuss and practice LLM security😭.
 
-<img src="https://media.giphy.com/media/1Bek3O06EXr6YaBcLy/giphy.gif" width="30px">&nbsp;Feel free to email me (欢迎邮件交流：shteenlo@gmail.com) to discuss any security-related topics, guidance, or suggestions. Looking forward to it!
+<img src="https://media.giphy.com/media/1Bek3O06EXr6YaBcLy/giphy.gif" width="30px">&nbsp;Let’s Connect: Feel free to email me (欢迎邮件交流：shteenlo@gmail.com) to discuss any security-related topics, seek guidance, or share suggestions. Looking forward to connecting with you!
 
 🌟 Recently Released Security Tool: [AI-Assisted - Authorization Bypass Detection Burp Plugin](https://github.com/sule01u/AutorizePro),
 
