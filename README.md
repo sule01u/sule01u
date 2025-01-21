@@ -18,7 +18,5 @@
 
 🌟 Recently Released Security Tool: [AI-Assisted - Authorization Bypass Detection Burp Plugin](https://github.com/sule01u/AutorizePro),
 
-![sule01u's github stats](https://github-readme-stats.vercel.app/api?username=sule01u&show_icons=true&hide_border=true)
-
 <br>**📉 Visitors Count**  
 ![VisitorCount](https://profile-counter.glitch.me/{sanchitvj}/count.svg)
