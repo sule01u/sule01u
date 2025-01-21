@@ -16,7 +16,7 @@
 
 <img src="https://media.giphy.com/media/1Bek3O06EXr6YaBcLy/giphy.gif" width="30px">&nbsp;Let’s Connect: Feel free to email me (欢迎邮件交流：shteenlo@gmail.com) to discuss any security-related topics, seek guidance, or share suggestions. Looking forward to connecting with you!
 
-🌟 Recently Released Security Tool: [AI-Assisted - Authorization Bypass Detection Burp Plugin](https://github.com/sule01u/AutorizePro),
+🌟 [AI-Assisted - Authorization Bypass Detection Burp Plugin](https://github.com/WuliRuler/AutorizePro) （工具本人不再维护，转交给他人维护，希望大家继续支持）
 
 <br>**📉 Visitors Count**  
 ![VisitorCount](https://profile-counter.glitch.me/{sanchitvj}/count.svg)
